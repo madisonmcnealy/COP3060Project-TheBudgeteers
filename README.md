@@ -59,6 +59,7 @@ This diagram illustrates how data moves between the user interface, backend logi
 
 ---
 
-# 🤖 AI Usage Log 
+# 🤖 AI Usage Log
 
-
+The full AI Usage Log for Milestone 2 can be found here:  
+**[AI Usage Log Document](https://docs.google.com/document/d/1ERMhLrodu2hZ_JIKs2dojBXijRAxVSd1JLkA3o9Tac8/edit?usp=sharing)**
