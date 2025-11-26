@@ -59,6 +59,6 @@ This diagram illustrates how data moves between the user interface, backend logi
 
 ---
 
-# 🤖 AI Usage Log (
+# 🤖 AI Usage Log 
 
 
