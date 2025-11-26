@@ -10,7 +10,7 @@ This README contains documentation and diagrams required for **Milestone 2**.
 College students often struggle with budgeting, tracking expenses, and developing good financial habits.  
 Our application provides a simple, user-friendly platform for logging expenses, viewing spending trends, and managing budgets manually.
 
-This README includes the **architecture diagram**, **endpoint table**, and **AI usage log placeholder**.
+This README includes the **architecture diagram**, **endpoint table**, and **AI usage log**.
 
 ---
 
