@@ -2,8 +2,8 @@ import React from 'react'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 
 import Home from './home.jsx'
-import DataDisplay from './DataDisplay.jsx'
-import FormPage from './FormPage.jsx'
+import DataDisplay from "./pages/DataDisplay.jsx";
+import FormPage from "./pages/FormPage.jsx";
 
 export default function App() {
   return (
