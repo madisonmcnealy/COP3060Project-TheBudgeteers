@@ -8,8 +8,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/items")  // matches the endpoints in your README
-@CrossOrigin(origins = "http://localhost:5173") // change port if your React app uses a different one
+@RequestMapping("/api/expenses")
+@CrossOrigin(origins = "http://localhost:5176")
+}
 public class ExpenseController {
 
     private final ExpenseService service;
